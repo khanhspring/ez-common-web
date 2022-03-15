@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.codelaez.ezcommonweb.webclient.EzWebClientAutoConfiguration,\
+com.codelaez.ezcommonweb.tracing.EzTracingAutoConfiguration

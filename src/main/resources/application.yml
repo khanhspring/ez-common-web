@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ez-test
+
+ez:
+  web-client:
+    clients:
+      - { id: "localClient", baseUrl: "http://localhost:8080/test" }
